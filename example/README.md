@@ -2,7 +2,7 @@
 
 #### 다운로드, 설치, 실행방법.
 
-## 1. 리액트 설치
+## 1. [Node.js, npm 설치](https://nodejs.org/en/download)
 
 ## 2. git clone 명령어를 사용하여 코드를 다운로드(클론) 한 후 project 폴더에서 'yarn'을 실행하세요.
 ### ```` git clone https://github.com/dscoool/react-navigation.git ````
