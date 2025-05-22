@@ -12,7 +12,7 @@
 ### ```` git clone https://github.com/dscoool/react-navigation.git ````
 ### [2-1. yarn 설치](https://classic.yarnpkg.com/lang/en/docs/install/#windows-stable)
 ### ```` npm install --global yarn ````
-### [2-2. project 폴더에서 'yarn'을 실행하세요.]
+### 2-2. project 폴더에서 'yarn'을 실행하세요.
 ### ```` yarn ````
 
 ### 3. ```` yarn example start ```` 명령어로 패키지를 실행하세요.
