@@ -5,7 +5,9 @@
 ## 1. 리액트 설치
 
 ## 2. git clone 명령어를 사용하여 코드를 다운로드(클론) 한 후 project 폴더에서 'yarn'을 실행하세요.
-### git clone https://github.com/dscoool/react-navigation.git
+### ```` 
+git clone https://github.com/dscoool/react-navigation.git
+````
 ### [yarn 설치](https://classic.yarnpkg.com/lang/en/docs/install/#windows-stable)
 ### ```` npm install --global yarn ````
 ### yarn
