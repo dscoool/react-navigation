@@ -1,7 +1,8 @@
 # React Native 
 # 리액트 네이티브 모바일 웹 크로스 플랫폼 어플리케이션
 
-### iOS Mobile Application + Android Mobile Application + Web | Cross Platform 크로스 플랫폼
+### iOS Mobile Application + Android Mobile Application + Web | 
+### Cross Platform 크로스 플랫폼
 
 ## [First React Native App | 첫 번째 리액트 앱 만들기](https://github.com/facebook/react-native?tab=readme-ov-file#-building-your-first-react-native-app)
 ### [리액트 네비게이션 샘플](https://github.com/dscoool/react-navigation/blob/main/example/) 다운로드, 설치, 실행방법.
