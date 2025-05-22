@@ -18,4 +18,5 @@
 ### ```` yarn example ios ````
 터미널창에서 3, 3-1, 3-2를 실행한 후 화면의 설명을 따르세요.
 
-4. 실행결과: <https://react-navigation-example.netlify.app>
+### 4. 실행결과:
+### <https://react-navigation-example.netlify.app>
