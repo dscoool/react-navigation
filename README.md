@@ -9,7 +9,10 @@
 ## [I. First React Native App | 첫 번째 리액트 앱 만들기](https://github.com/facebook/react-native?tab=readme-ov-file#-building-your-first-react-native-app)
 ### [리액트 네비게이션 샘플](https://github.com/dscoool/react-navigation/blob/main/example/) 다운로드, 설치, 실행방법.
 
-### 1. [Node.js, npm 설치](https://nodejs.org/en/download)
+### 1. [Node.js, expo, React Native 설치]
+### A. [NodeJS](https://nodejs.org/en/download)
+### B. [expo](https://expo.dev/)
+### C. [React Native](https://reactnative.dev/)
 
 ### 2. git clone 명령어를 사용하여 코드를 다운로드(클론) 한 후 
 ### ```` git clone https://github.com/dscoool/react-navigation.git ````
